@@ -5,3 +5,5 @@ Servers/
 */.settings/
 */target/
 */.springbeans
+*/bin/
+databases.properties
